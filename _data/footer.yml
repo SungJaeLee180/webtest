@@ -1,30 +1,30 @@
-- title: Pages
+- title: Pages tested
   links:
-    - name: Home
+    - name: Home tested
       link: /
-    - name: About
-      link: /about/
-    - name: Services
-      link: /services/
-    - name: Contact
-      link: /contact/
-    - name: Blog
-      link: /blog/
-- title: Social
+    - name: About tested
+      link: /abouttested/
+    - name: Services tested
+      link: /servicestested/
+    - name: Contact tested
+      link: /contact tested/
+    - name: Blog tested
+      link: /blog tested/
+- title: Social tested
   links:
-    - name: Facebook
-      link: http://facebook.com/cloudcannon/
-      social_icon: Facebook
+    - name: Facebook tested
+      link: http://facebook.com/cloudcannon/tested
+      social_icon: Facebook tested
       new_window: true
-    - name: Twitter
-      link: http://twitter.com/cloudcannon
-      social_icon: Twitter
+    - name: Twitter tested
+      link: http://twitter.com/cloudcannon/tested
+      social_icon: Twittertested
       new_window: true
-    - name: Instagram
-      link: http://instagram.com/
-      social_icon: Instagram
+    - name: Instagramtested
+      link: http://instagram.com/tested
+      social_icon: Instagramtested
       new_window: true
-    - name: LinkedIn
-      link: https://nz.linkedin.com/company/cloud-cannon/
+    - name: LinkedIntested
+      link: https://nz.linkedin.com/company/cloud-cannon/tested
       social_icon: LinkedIn
       new_window: true
